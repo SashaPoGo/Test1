@@ -1,3 +1,4 @@
- file.log
+ #ignors files
+file.log
    app
 
